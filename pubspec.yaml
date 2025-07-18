@@ -1,0 +1,16 @@
+name: vendoora_halo
+description: Vendoora Guest App (Flutter)
+version: 1.0.0
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.0.0
+  cloud_firestore: ^4.0.0
+
+flutter:
+  assets:
+    - assets/themes/
+    - assets/logos/

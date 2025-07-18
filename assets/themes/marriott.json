@@ -1,0 +1,7 @@
+{
+  "primaryColor": "0xFF800000",
+  "accentColor": "0xFFFFFFFF",
+  "backgroundColor": "0xFF800000",
+  "logoAsset": "assets/logos/marriott.svg",
+  "fontFamily": "Roboto"
+}

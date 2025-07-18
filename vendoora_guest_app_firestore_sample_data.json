@@ -1,0 +1,66 @@
+{
+  "reservations": {
+    "hilton_user_001": {
+      "guestName": "John Hilton",
+      "hotel": "Hilton",
+      "roomId": "HIL-104",
+      "checkIn": "2025-08-01",
+      "checkOut": "2025-08-04"
+    },
+    "marriott_user_002": {
+      "guestName": "Jane Marriott",
+      "hotel": "Marriott",
+      "roomId": "MAR-207",
+      "checkIn": "2025-08-05",
+      "checkOut": "2025-08-08"
+    },
+    "holidayinn_user_003": {
+      "guestName": "Alex Holiday",
+      "hotel": "Holiday Inn",
+      "roomId": "HOL-309",
+      "checkIn": "2025-08-10",
+      "checkOut": "2025-08-13"
+    }
+  },
+  "rooms": {
+    "HIL-104": {
+      "tv_status": {
+        "version": "v2.0.0",
+        "lastPing": "2025-07-17T12:00:00Z",
+        "isOnline": true
+      },
+      "access_tokens": {
+        "garage": "token_garage_104",
+        "elevator": "token_elevator_104",
+        "pool": "token_pool_104",
+        "room": "token_room_104"
+      }
+    },
+    "MAR-207": {
+      "tv_status": {
+        "version": "v2.0.0",
+        "lastPing": "2025-07-17T12:00:00Z",
+        "isOnline": true
+      },
+      "access_tokens": {
+        "garage": "token_garage_207",
+        "elevator": "token_elevator_207",
+        "pool": "token_pool_207",
+        "room": "token_room_207"
+      }
+    },
+    "HOL-309": {
+      "tv_status": {
+        "version": "v2.0.0",
+        "lastPing": "2025-07-17T12:00:00Z",
+        "isOnline": true
+      },
+      "access_tokens": {
+        "garage": "token_garage_309",
+        "elevator": "token_elevator_309",
+        "pool": "token_pool_309",
+        "room": "token_room_309"
+      }
+    }
+  }
+}
